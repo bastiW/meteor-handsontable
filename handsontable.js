@@ -12,6 +12,9 @@ if (Meteor.isClient) {
         'click button': function () {
 
 
+
+
+
             var data = [
                     {
                         "car": "Mercedes A 160",
